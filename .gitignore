@@ -1,0 +1,11 @@
+*.qcow2
+*.vmdk
+*.iso
+*.tar
+*.zip
+*credentials*
+*ACCES*
+*.key
+*.pem
+__pycache__/
+.qa/

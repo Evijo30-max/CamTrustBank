@@ -1,0 +1,13 @@
+{
+  "date": "2026-10-26",
+  "pdf_pages": 5,
+  "names_verified": true,
+  "rendered_pages_monochrome": 5,
+  "pcapng_readable_without_malformed_frames": 10,
+  "known_secrets_absent_from_files_pdf_and_reassembled_telnet": true,
+  "http_ftp_snmp_masking_verified": true,
+  "git_push_executed": false,
+  "git_commit_created": false,
+  "live_A7_revalidated_after_storage_interruption": false,
+  "issues": []
+}
